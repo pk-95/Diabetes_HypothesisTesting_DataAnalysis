@@ -33,4 +33,6 @@ Numpy, Pandas, Matplotlib, Seaborn libraries have been used for Data Cleaning, E
 Feature Scaling has been performed.
 
 
+## Refer to SDS Project Report.docx for a detailed report on this project, and SDS PPT.pptx for a brief presentation
+
 
