@@ -27,7 +27,7 @@ DiabetesPedigreeFunction: Diabetes pedigree function (a function which scores li
 Age: Age (years)
 ## Target Variable 
 Outcome: Class variable (0 if non-diabetic, 1 if diabetic)
-## Model Description
+## Tools Description
 Numpy, Pandas, Matplotlib, Seaborn libraries have been used for Data Cleaning, Exploratory Data Analysis, and Data Visualization.
 
 Feature Scaling has been performed.
